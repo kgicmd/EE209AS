@@ -21,3 +21,7 @@ run CLI command
 ```python manage.py runserver 0.0.0.0:24445```
 
 Then go to http://127.0.0.1:24445 and enjoy!
+
+### Demo
+
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/bzs_OUO-Wv8/0.jpg)](https://www.youtube.com/watch?v=bzs_OUO-Wv8)
